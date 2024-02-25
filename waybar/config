@@ -1,0 +1,29 @@
+{
+    "layer": "top",
+    "margin-top": 10,
+    "modules-left": ["disk", "memory", "cpu", "battery"],
+    "modules-center": ["hyprland/workspaces"],
+    "modules-right": ["pulseaudio", "clock"],
+    "disk": {
+        "format": " {free}"
+    },
+    "memory": {
+        "format": " {used} / {total}Gib",
+        "interval": 3
+    },
+    "cpu": {
+        "format": " {usage}%",
+        "interval": 3
+    },
+    "wlr/workspaces": {
+        "format": "{icon}",
+    },
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-icons": ["", ""],
+        "format-muted": " Muted"
+    },
+    "clock": {
+        "format": " {:%H:%M %d/%m/%Y}"
+    }
+}
