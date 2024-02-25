@@ -1,5 +1,21 @@
-My Hyprland, Waybar and Rofi Config
+# YellorDev's Hyprland Config
 
-• Tested on Fedora 39.
+Includes Hyprland, Waybar and Rofi. Tested on Fedora 39.
 
-• Please read the "requirements".
+## Author
+
+- [@YellorDev](https://www.github.com/YellorDev) for design and development.
+
+  
+## Requirements
+
+- hyprland
+- rofi
+- pulseaudio
+- swaylock
+- waybar
+- mako
+- wlogout
+
+
+  
