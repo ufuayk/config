@@ -1,4 +1,4 @@
-# YellorDev's Hyprland Config
+# Hyprland Config
 
 Includes Hyprland, Waybar and Rofi. Tested on Fedora 39.
 
