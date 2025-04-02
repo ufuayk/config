@@ -17,7 +17,7 @@ window#waybar {
 #pulseaudio,
 #clock {
   padding: 5px 15px;
-  background-color: rgba(38, 35, 58, 0.8);
+  background-color: rgba(46, 52, 64, 0.8);
   border-radius: 5px;
 }
 
