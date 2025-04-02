@@ -1,6 +1,6 @@
 # Hyprland Config
 
-Includes Hyprland, Waybar and Rofi. **Tested on Fedora 39.**
+Includes Hyprland, Waybar and Rofi. **Tested on Fedora 39 and Arch.**
 
 ## Requirements
 
@@ -11,3 +11,4 @@ Includes Hyprland, Waybar and Rofi. **Tested on Fedora 39.**
 - waybar
 - mako
 - wlogout
+- lxqt-polkit
