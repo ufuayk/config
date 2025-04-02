@@ -12,3 +12,5 @@ Includes Hyprland, Waybar and Rofi. **Tested on Fedora 39 and Arch.**
 - mako
 - wlogout
 - lxqt-polkit
+- hyprshot
+- xbindkeys
