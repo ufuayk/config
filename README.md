@@ -1,6 +1,10 @@
 # Hyprland Config
 
-Includes Hyprland, Waybar and Rofi. **Tested on Fedora 39 and Arch.**
+Includes Hyprland, Waybar and Rofi. 
+
+Tested on Fedora 39 and Arch Linux.
+
+![Hypr](screenshot.png)
 
 ## Requirements
 
