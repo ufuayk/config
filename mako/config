@@ -1,0 +1,14 @@
+anchor=top-right
+background-color=#51576d
+text-color=#dfe4fa
+width=350
+margin=35,35,20
+padding=10
+border-size=2
+border-color=#88c0d0
+border-radius=5
+default-timeout=5000
+group-by=summary
+
+[grouped]
+format=<b>%s</b>\n%b
